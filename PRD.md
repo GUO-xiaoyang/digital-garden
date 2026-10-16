@@ -1,6 +1,6 @@
 # 数字花园 · 个人知识站 PRD
 
-> 文档版本：v1.0　｜　负责人：郭晓阳　｜　状态：MVP 已实现
+> 文档版本：v1.0　｜　负责人：过啸阳　｜　状态：MVP 已实现
 > 配套文档：[`TECH_DESIGN.md`](./TECH_DESIGN.md)、[`AGENTS.md`](./AGENTS.md)
 
 ---

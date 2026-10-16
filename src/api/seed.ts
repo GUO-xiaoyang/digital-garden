@@ -6,7 +6,7 @@
 import type { Post, Profile, Project, SiteSettings, SkillGroup } from '../types'
 
 export const seedProfile: Profile = {
-  name: '郭晓阳',
+  name: '过啸阳',
   headline: 'Java 后端开发 · 把复杂的业务拆成清晰的接口',
   bio: `计算机科学与技术专业在读，方向是 **Java 后端研发**。
 
